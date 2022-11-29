@@ -21,5 +21,3 @@ Funcionamento do jogo:
 5 - O objetivo é chegar o mais longe possível, acertando a maior quantidade de palavras que conseguir.
 
 6 - O código do jogo pode ser encontrado no arquivo "main.py", localizado no repositório do GitHub. 
-
-
