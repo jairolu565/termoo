@@ -1,7 +1,11 @@
+
+#biblioteca para aleatorizar a lista de palavras
 from random import shuffle
+#biblioteca de decodificador de caracteres
+import codecs
 
-
-with open('arquivo.txt', 'r') as f:
+#abertura 
+with codecs.open('arquivo.txt', 'r', encoding='utf-8') as f:
     lista_de_palavras = f.readlines()
 
 lista = [x.strip() for x in lista_de_palavras]
@@ -18,7 +22,6 @@ linhas = len(lista)
 
 while True:
     computador = lista[n]
-    print(computador)
     chute = str(input('Chute uma palavra: '))
     if chute == computador:
         print('Você acertou a Palavra Secreta!\n')
