@@ -1,7 +1,12 @@
 # termoo
 AV3 Estrutura de Dados
 
-Link para vídeo de demonstração do jogo:
+Autores: Marlla Rolemberg - 201002748
+Jairo Luigi - 201002000
+Ricardo Henrique - 201001957
+Michel Gerônimo - 
+
+Link para vídeo de demonstração do jogo: https://youtu.be/RwSv2fxHslI
 
 Funcionamento do jogo:
 
@@ -22,3 +27,5 @@ Funcionamento do jogo:
 5 - O objetivo é chegar o mais longe possível, acertando a maior quantidade de palavras que conseguir.
 
 6 - O código do jogo pode ser encontrado no arquivo "main.py", localizado no repositório do GitHub. 
+
+
