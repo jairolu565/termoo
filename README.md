@@ -1,6 +1,7 @@
 # termoo
 AV3 Estrutura de Dados
 
+Link para vídeo de demonstração do jogo:
 
 Funcionamento do jogo:
 
