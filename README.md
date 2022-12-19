@@ -4,7 +4,7 @@ AV3 Estrutura de Dados
 Autores: Marlla Rolemberg - 201002748
 Jairo Luigi - 201002000
 Ricardo Henrique - 201001957
-Michel Gerônimo - 
+Michel Gerônimo - 201002987
 
 Link para vídeo de demonstração do jogo: https://youtu.be/RwSv2fxHslI
 
